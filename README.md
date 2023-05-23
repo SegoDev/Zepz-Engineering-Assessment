@@ -48,7 +48,7 @@ This repository contains the application as described above
 
 ## 📸 Screencast
 
-![Alt text - Working app](/public/Screen%20Recording%202023-05-23%20at%2015.42.54.mov)
+![Alt text - Home Screen](/public/Screenshot%202023-05-23%20at%2018.05.09.png)
 
 ### Techstack
 
@@ -134,6 +134,7 @@ screenshot below from WakaTime:
 ## Future Enhancements
 
 - add grid or list view filter
+- add a no users found error page when search results return nothing
 
 ### Thoughts
 
